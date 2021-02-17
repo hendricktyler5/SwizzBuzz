@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwizzBuzz.Repository", "Swi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwizzBuzz.Api", "SwizzBuzz.Api\SwizzBuzz.Api.csproj", "{0B90D5EC-227A-4111-A1E8-98B8284376F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwizzBuzz.Tests", "SwizzBuzz.Tests\SwizzBuzz.Tests.csproj", "{B94CDF55-0249-47D1-B7B1-DD3C359A778E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0B90D5EC-227A-4111-A1E8-98B8284376F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B90D5EC-227A-4111-A1E8-98B8284376F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B90D5EC-227A-4111-A1E8-98B8284376F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94CDF55-0249-47D1-B7B1-DD3C359A778E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94CDF55-0249-47D1-B7B1-DD3C359A778E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94CDF55-0249-47D1-B7B1-DD3C359A778E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94CDF55-0249-47D1-B7B1-DD3C359A778E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
